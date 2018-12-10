@@ -41,7 +41,7 @@ class ViewController: UIViewController {
             
         }
     }
-    
+    //23456789
     func checkLocationAuthorization(){
         switch CLLocationManager.authorizationStatus(){
         case .authorizedWhenInUse:
